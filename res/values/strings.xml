@@ -80,13 +80,13 @@
     <string name="qs_panel_settings_title">QS panel settings</string>
     <string name="qs_panel_settings_summary">Media artwork, Brightness slider, QS battery estimates, QS footer text</string>
 
-     <!-- Media artwork -->
+    <!-- Media artwork -->
     <string name="media_category">Media notification</string>
-    <string name="artwork_media_background_title">Artwork media background</string>
-    <string name="artwork_media_background_summary">Set media artwork as the notification media background</string>
-    <string name="artwork_media_background_enable_blur_title">Blur media media artwork background</string>
-    <string name="artwork_media_background_blur_radius_title">Blur amount for media artwork</string>
-    <string name="artwork_media_background_alpha_title">Transparency of media artwork</string>
+    <string name="media_artwork_enabled_title">Artwork media background</string>
+    <string name="media_artwork_enabled_summary">Use media artwork as the media notification background</string>
+    <string name="media_artwork_blur_enabled_title">Blur media artwork background</string>
+    <string name="media_artwork_blur_radius_title">Blur amount for media artwork</string>
+    <string name="media_artwork_fade_percent_title">Fade amount for media artwork</string>
 
     <!-- Brightness slider -->
     <string name="brightness_slider">Brightness slider</string>
@@ -110,7 +110,7 @@
     <string name="secure_keyguard_tiles_title">Require user unlocking to use sensitive tiles</string>
 
     <!-- Statusbar settings -->
-    <string name="statusbar_settings_title">Statsubar settings</string>
+    <string name="statusbar_settings_title">Statusbar settings</string>
     <string name="statusbar_settings_summary">Network traffic, Battery styles, Combined signal icons, Notification count</string>
 
     <!-- Network traffic -->
