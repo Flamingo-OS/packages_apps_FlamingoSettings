@@ -128,8 +128,13 @@
     <string name="show_fourg_icon_summary">Отображение иконки 4G вместо LTE</string>
 
     <!-- Old mobile type icons -->
-    <string name="use_old_mobiletype_title">Маленькая иконка типа подключения</string>
-    <string name="use_old_mobiletype_summary">Показывать иконку типа подключения к мобильному интернету наверху иконки сети</string>
+    <string name="use_old_mobiletype_title">Маленькая икнока типа подключения</string>
+    <string name="use_old_mobiletype_summary">Показывать значок типа мобильной сети сверху индикатора сигнала</string>
+
+    <!-- Statusbar Privacy -->
+    <string name="privacy">Privacy</string>
+    <string name="camera_mic_icons_title">Включить индикаторы конфиденциальности камеры и микрофона</string>
+    <string name="location_indicators_title">Включить индикатор конфиденциальности местоположения</string>
 
     <!-- Theme settings -->
     <string name="theme_settings_title">Тема</string>
@@ -173,6 +178,8 @@
     <string name="live_display_night">Ночь</string>
     <string name="live_display_outdoor_mode_title">Автоматический режим на улице</string>
     <string name="live_display_outdoor_mode_summary">Автоматическое увеличение яркости и насыщенности при ярком солнечном свете</string>
+    <string name="live_display_anti_flicker_title">Антимерцание</string>
+    <string name="live_display_anti_flicker_summary">Предотвращает сильное мерцание и уменьшает нагрузку на глаза в условиях низкой освещенности. Это может снизить точность цветопередачи и повлиять на отображение некоторых элементов.</string>
     <string name="live_display_low_power_title">Снизить энергопотребление</string>
     <string name="live_display_low_power_summary">Отрегулируйте дисплей для минимального энергопотребления без снижения производительности.</string>
     <string name="live_display_enhance_color_title">Улучшить цвета</string>
