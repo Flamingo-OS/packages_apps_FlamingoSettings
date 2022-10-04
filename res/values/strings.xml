@@ -131,6 +131,11 @@
     <string name="use_old_mobiletype_title">Small mobile type icon</string>
     <string name="use_old_mobiletype_summary">Show mobile type icon on top of the signal indicator</string>
 
+    <!-- Statusbar Privacy -->
+    <string name="privacy">Privacy</string>
+    <string name="camera_mic_icons_title">Enable camera and microphone privacy indicators</string>
+    <string name="location_indicators_title">Enable location privacy indicator</string>
+
     <!-- Theme settings -->
     <string name="theme_settings_title">Theme settings</string>
     <string name="theme_settings_summary">Monet engine, Icon pack, Fonts</string>
@@ -173,6 +178,8 @@
     <string name="live_display_night">Night</string>
     <string name="live_display_outdoor_mode_title">Automatic outdoor mode</string>
     <string name="live_display_outdoor_mode_summary">Increase brightness and saturation automatically under bright sunlight</string>
+    <string name="live_display_anti_flicker_title">Anti flicker</string>
+    <string name="live_display_anti_flicker_summary">Prevent extensive flickering and reduce eye strain in low light conditions. It might degrade color accuracy and affect the way some items are displayed.</string>
     <string name="live_display_low_power_title">Reduce power consumption</string>
     <string name="live_display_low_power_summary">Adjust display for lowest power consumption without degradation</string>
     <string name="live_display_enhance_color_title">Enhance colors</string>
