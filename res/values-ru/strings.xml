@@ -378,7 +378,7 @@
     <string name="power_menu_summary_long_press_for_torch">Переключить фонарик</string>
 
     <!-- Volume panel position -->
-    <string name="volume_panel_position_title">Панел громкости слева</string>
+    <string name="volume_panel_position_title">Панель громкости слева</string>
 
     <!-- Other sensors permission preference -->
     <string name="auto_grant_OTHER_SENSORS_permission_title">Разрешить сенсорам доступ к приложениям по умолчанию</string>
