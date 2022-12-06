@@ -138,21 +138,7 @@
 
     <!-- Theme settings -->
     <string name="theme_settings_title">Тема</string>
-    <string name="theme_settings_summary">Monet, Набор иконок, Шрифты</string>
-
-    <!-- Monet engine -->
-    <string name="monet_engine_settings_title">Движок Monet</string>
-    <string name="monet_engine_settings_summary">Пользовательский цвет, насыщенность, яркость</string>
-    <string name="accurate_shades_title">Использовать точные оттенки</string>
-    <string name="color_override_title">Пользовательская палитра цветов</string>
-    <string name="color_override_default_summary">Использовать цвет обоев</string>
-    <string name="custom_color_override_summary_placeholder">
-        Выбранный цвет: <xliff:g example="#FF0000" id="Color">%1$s</xliff:g>. Задайте пустое значение для использования цвета обоев.
-    </string>
-    <string name="invalid_color_input">Неверный ввод цвета!</string>
-    <string name="chroma_factor_title">Насыщенность</string>
-    <string name="linear_lightness_title">Использовать пользовательскую шкалу яркости</string>
-    <string name="white_luminance_title">Яркость</string>
+    <string name="theme_settings_summary">Набор иконок, Шрифты</string>
 
     <!-- Icon pack -->
     <string name="icon_pack_preference_title">Набор иконок</string>
@@ -392,5 +378,28 @@
     <string name="power_menu_summary_long_press_for_torch">Переключить фонарик</string>
 
     <!-- Volume panel position -->
-    <string name="volume_panel_position_title">Панель громкости слева</string>
+    <string name="volume_panel_position_title">Панел громкости слева</string>
+
+    <!-- Other sensors permission preference -->
+    <string name="auto_grant_OTHER_SENSORS_permission_title">Разрешить сенсорам доступ к приложениям по умолчанию</string>
+    <string name="auto_grant_OTHER_SENSORS_permission_summary_on">Сенсоры — это нестандартное разрешение, приложения могут работать со сбоями, если оно будет отклонено.</string>
+    <string name="auto_grant_OTHER_SENSORS_permission_summary_off">Запрос разрешения будет показан, когда приложение попытается получить доступ к датчикам. Обратите внимание, что некоторые приложения, возможно, потребуется перезапустить вручную после предоставления разрешения датчиков.</string>
+
+    <!-- LC3 codec -->
+    <string name="bluetooth_lc3_codec">LC3</string>
+
+    <!-- Storage scopes -->
+    <string name="storage_scopes">Области хранения</string>
+    <string name="allow_access_to_obb_directory_title">Разрешить доступ к папке Android/obb</string>
+    <string name="allow_access_to_obb_directory_summary">Требуется для установки некоторых больших приложений (в основном игр), которые используют файлы расширения OBB.</string>
+
+    <!-- Screen off UDFPS -->
+    <string name="screen_off_udfps_title">Отключить сенсор отпечатка пальца</string>
+    <string name="screen_off_udfps_summary">Сенсор отпечатка пальца активен, когда экран выключен</string>
+
+    <string name="cutout_force_fullscreen_title">Полноэкранный режим в приложениях</string>
+    <string name="cutout_force_fullscreen_summary">Переопределить вырез дисплея и включить полноэкранный режим для каждого приложения</string>
+
+    <string name="select_apps">Выберите приложения</string>
+
 </resources>
